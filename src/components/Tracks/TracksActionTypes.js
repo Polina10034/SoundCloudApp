@@ -1,0 +1,6 @@
+export const TRACKS_LOADED = 'TRACKS_LOADED';
+export const SEARCH_QUERY_CHANGED = 'SEARCH_QUERY_CHANGED';
+export const SEARCH_QUERY_DONE = 'SEARCH_QUERY_DONE';
+export const NOT_FOUND = 'NOT_FOUND';
+export const SET_LOADING = 'SET_LOADING';
+export const TOGGLE_SOUND = 'TOGGLE_SOUND';
